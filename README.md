@@ -8,8 +8,8 @@ Tools for running multiple coding agents simultaneously on different tasks.
 
 - [1code](https://github.com/21st-dev/1code) - UI for Claude Code with local and remote agent execution.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents.
-- [agent-of-empires](https://github.com/njbrake/agent-of-empires) - A terminal session manager for AI coding agents on Linux and macOS.
 - [agent-kanban](https://github.com/saltbo/agent-kanban) - Agent-first kanban board with leader-worker model, cryptographic agent identity, and multi-runtime support (Claude Code, Codex, Gemini CLI).
+- [agent-of-empires](https://github.com/njbrake/agent-of-empires) - A terminal session manager for AI coding agents on Linux and macOS.
 - [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard for orchestrating Claude, Aider, and Cursor agents across machines.
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace for managing git worktrees with integrated agent sessions.
@@ -21,9 +21,9 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents in background.
 - [claude_code_bridge](https://github.com/bfly123/claude_code_bridge) - Real-time multi-AI collaboration.
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) in one browser window. Live status, session resume, autopilot routing between agents, and full control from a phone while away.
-- [collaborator](https://github.com/collaborator-ai/collab-public) - A place to create with agents.
 - [cmux](https://github.com/manaflow-ai/cmux) - Open-source platform for running multiple coding agents in parallel.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Orchestrate multiple Codex agents across local workspaces.
+- [collaborator](https://github.com/collaborator-ai/collab-public) - A place to create with agents.
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app for running multiple AI agents with their own terminal, editor, and git worktree.
 - [crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code sessions in parallel git worktrees.
 - [dmux](https://github.com/standardagents/dmux) - Parallel agents with tmux and worktrees.
@@ -89,12 +89,12 @@ Systems for coordinating multiple specialized agents working together.
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
 - [automata](https://github.com/sentientwave/automata) - Agent swarming organization system.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
-- [ClawTeam](https://github.com/HKUDS/ClawTeam) - Agent Swarm Intelligence (One Command → Full Automation).
 - [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
+- [ClawTeam](https://github.com/HKUDS/ClawTeam) - Agent Swarm Intelligence (One Command → Full Automation).
 - [CompanyHelm](https://github.com/CompanyHelm/companyhelm) - Distributed multi-agent orchestrator with task management and agent-to-agent conversations
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system with persistent work tracking.
-- [hcom](https://github.com/aannoo/hcom) - Hook your AI coding agents together so they can message, watch, and spawn each other across terminals.
 - [gnap](https://github.com/farol-team/gnap) - Git-Native Agent Protocol: coordinate multiple agents via a shared git repo acting as a persistent task board (todo/doing/done), no orchestrator process required.
+- [hcom](https://github.com/aannoo/hcom) - Hook your AI coding agents together so they can message, watch, and spawn each other across terminals.
 - [kodo](https://github.com/ikamensh/kodo) - Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI agents through work cycles with independent verification.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
 - [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired tmux orchestrator with a shogun → karo → ashigaru hierarchy for running up to 10 parallel AI coding agents (Claude Code, Codex, Copilot, Kimi) with zero coordination API cost.
